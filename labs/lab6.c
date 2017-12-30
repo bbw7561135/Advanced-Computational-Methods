@@ -55,8 +55,7 @@ void use_fib_array(long N){
 
 
 int main(void) {
-	use_fib_array(10e3);
-	getchar();
+	use_fib_array(10);
 	return 0;
 }
 
