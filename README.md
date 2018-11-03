@@ -21,3 +21,7 @@ Contains codes written to show pointers.
 ## structs
 
 Contains codes written to show structures.
+
+## Acknowledgements 
+
+I would like to acknowledge financial support from the EPSRC Centre for Doctoral Training in Next Generation Computational Modelleing grant EP/L015382/1.
